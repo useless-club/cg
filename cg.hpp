@@ -1,6 +1,6 @@
 #ifndef CG_HPP
 #define CG_HPP
-#include <iostream>
+
 #include <string>
 
 namespace color {
